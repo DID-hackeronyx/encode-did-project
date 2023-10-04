@@ -5,7 +5,7 @@ import React from "react";
 const Adopts = () => {
   return (
     <Container>
-      <ContainerHeader></ContainerHeader>
+      <ContainerHeader title="Adopts" />
       <div>Adopts</div>
     </Container>
   );

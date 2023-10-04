@@ -15,8 +15,8 @@ const BackButton = () => {
           <Image
             src="/images/left-arrow.png"
             alt="gallery"
-            width={50}
-            height={50}
+            width={30}
+            height={30}
             className="text-white"
           />
         </button>
